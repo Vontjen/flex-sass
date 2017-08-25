@@ -1,5 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 ### NetBeans template
+.idea
 nbproject/private/
 build/
 nbbuild/
